@@ -25,3 +25,5 @@ plans.
 5. Downgrade Patterns: Analysis of subscription downgrades and associated trends.
 6. Content Consumption Behavior: Patterns in total watch time, device preferences, and
 variations by user demographics.
+
+Project fro Codebasics: https://codebasics.io/challenge/codebasics-resume-project-challenge
