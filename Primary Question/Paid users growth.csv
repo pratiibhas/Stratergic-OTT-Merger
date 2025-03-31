@@ -1,0 +1,7 @@
+db_name,city_Tier,total_users,premium_user_pct,VIP_user_pct
+jotstar,"Tier 1",20340,50.0393,49.9607
+liocinema,"Tier 1",22599,45.6038,0.0000
+jotstar,"Tier 2",9360,27.4145,72.5855
+liocinema,"Tier 2",31660,28.7113,0.0000
+jotstar,"Tier 3",2824,22.0609,77.9391
+liocinema,"Tier 3",24195,23.5421,0.0000
